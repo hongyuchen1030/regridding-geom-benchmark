@@ -3,7 +3,6 @@
 
 This repository contains the code and input data used for all benchmarks in the manuscript  
 **“Accurate and Robust Geometric Algorithms for Regridding on the Sphere.”**  
-Everything needed to reproduce the figures in the paper is included here: input meshes, ill-conditioned test cases, and the benchmark scripts.
 
 If you have questions, feel free to contact: **hyvchen@ucdavis.edu**.
 ## Benchmark components
